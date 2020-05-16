@@ -1,6 +1,9 @@
-**js-aruco** is a port to JavaScript of the ArUco library.
+# Aruco-Stream
+This library is a fork of the JS-Aruco library which is itself a port to JavaScript of the ArUco library. The focus of this library is to make a browser ready package that uses event streams to deliver marker updates.
 
 [ArUco](http://www.uco.es/investiga/grupos/ava/node/26) is a minimal library for Augmented Reality applications based on OpenCv.
+[JS-Aruco](https://github.com/jcmellado/js-aruco)
+
 
 ### Demos ###
 
